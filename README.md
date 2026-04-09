@@ -19,7 +19,7 @@ Preparar datos textuales en español eliminando ruido común como:
 Clona el repositorio:
 
 ```bash
-gh repo clone Alonsohaifish/extraccion-palabras-clave-espanol
+gh repo clone AlonsoGuerreroTr/evaluador_nivel_espanol
 cd extraccion-palabras-clave-español
 ```
 
