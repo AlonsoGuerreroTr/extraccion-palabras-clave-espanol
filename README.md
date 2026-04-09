@@ -19,7 +19,7 @@ Preparar datos textuales en español eliminando ruido común como:
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/Alonsohaifish/extraccion-palabras-clave-español.git
+gh repo clone Alonsohaifish/extraccion-palabras-clave-espanol
 cd extraccion-palabras-clave-español
 ```
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## Estructura del proyecto
 
 ```text
-proyecto-limpieza-texto/
+extraccion-palabras-clave-español/
 │
 ├── data/
 │   ├── raw/              # Datos originales
