@@ -1,0 +1,7 @@
+#libraries
+keybert
+spacy
+multi-rake
+unidecode
+scikit-learn
+sentence-transformers
